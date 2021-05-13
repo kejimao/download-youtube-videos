@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# 如何下载YouTube网站上的视频
 
-You can use the [editor on GitHub](https://github.com/kejimao/download-youtube-videos.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+出于工作原因，有时候我们可能需要下载YouTube里面的视频，下面我来分享一个简单的YouTube视频下载方法：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+第一步：在电脑上下载安装这款4K Video Downloader这款软件
 
-### Markdown
+第二步：打开网站，找到你想要下载的视频，然后复制它的链接地址
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+第三步：打开软件，将复制的视频链接粘贴到程序里进行解析
 
-```markdown
-Syntax highlighted code block
+第四步：软件会自动开始下载YouTube视频，你可以清晰地看到进度条
 
-# Header 1
-## Header 2
-### Header 3
+第五步：等待YouTube视频下载完成，点击旁边的按钮即可播放或者分享给好友
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kejimao/download-youtube-videos.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+以上就是YouTube视频下载方法和具体操作步骤了，你学会了吗？赶紧下载4K Video Downloader软件试下吧！
